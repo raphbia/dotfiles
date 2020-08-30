@@ -7,6 +7,7 @@ This dotfiles were derived from:
 - [oh-my-tmux](https://github.com/gpakosz/.tmux#tmux)
 - [vim-bootstrap](https://vim-bootstrap.com/)
 - [ThePrimeagen - dotfiles](https://github.com/erkrnt/awesome-streamerrc/tree/master/ThePrimeagen)
+- [Iterm2 - Gruvbox](https://github.com/herrbischoff/iterm2-gruvbox)
 
 ---
 
@@ -17,6 +18,7 @@ This dotfiles were derived from:
 
 ## Install
 To install, run the fowllowing commands on your terminal
+
 ```
 $ cd
 $ git clone https://github.com/raphbia/dotfiles
@@ -24,4 +26,4 @@ $ chmod +x install.sh
 $ ./install.sh
 ```
 
-    The install.sh script will symlink my dotfiles with the defaults system dotfiles
+The install.sh script will symlink my dotfiles with the defaults system dotfiles
