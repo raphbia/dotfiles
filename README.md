@@ -22,8 +22,8 @@ To install, run the fowllowing commands on your terminal
 ```
 $ cd
 $ git clone https://github.com/raphbia/dotfiles
-$ chmod +x install.sh
-$ ./install.sh
+$ chmod +x dotfiles/install.sh
+$ ./dotfiles/install.sh
 ```
 
 The install.sh script will symlink my dotfiles with the defaults system dotfiles
