@@ -1,16 +1,19 @@
 # Dotfiles
+
 Personal dotfiles for zsh, tmux and vim
+
 This dotfiles were derived from:
-    - [oh-my-zsh](https://ohmyz.sh/)
-    - [oh-my-tmux](https://github.com/gpakosz/.tmux#tmux)
-    - [vim-bootstrap](https://vim-bootstrap.com/)
-    - [ThePrimeagen - dotfiles](https://github.com/erkrnt/awesome-streamerrc/tree/master/ThePrimeagen)
+- [oh-my-zsh](https://ohmyz.sh/)
+- [oh-my-tmux](https://github.com/gpakosz/.tmux#tmux)
+- [vim-bootstrap](https://vim-bootstrap.com/)
+- [ThePrimeagen - dotfiles](https://github.com/erkrnt/awesome-streamerrc/tree/master/ThePrimeagen)
+
 ---
 
 ## Installation
 ## Requirement
-    - [oh-my-zsh](https://ohmyz.sh/#install)
-    - [oh-my-tmux](https://github.com/gpakosz/.tmux#installation)
+- [oh-my-zsh](https://ohmyz.sh/#install)
+- [oh-my-tmux](https://github.com/gpakosz/.tmux#installation)
 
 ## Install
 To install, run the fowllowing commands on your terminal
